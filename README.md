@@ -26,15 +26,15 @@ job-portal-app/
 │   │   │   ├── CreateCompany.jsx          # Page for creating new companies
 │   │   │   ├── PostJob.jsx                # Form for posting new jobs
 │   │   │   └── ProtectedRoute.jsx         # Route guard for admin routes
-│   │   ├── auth/            # Authentication components
+│   │   ├── auth/                          # Authentication components
 │   │   │   ├── Login.jsx                  # Login form
 │   │   │   └── Signup.jsx                 # Registration form
-│   │   ├── pages/           # Main application pages
+│   │   ├── pages/                         # Main application pages
 │   │   │   ├── Browse.jsx                 # Job browsing page
 │   │   │   ├── Home.jsx                   # Landing page
 │   │   │   ├── Jobs.jsx                   # Jobs listing page
 │   │   │   └── Profile.jsx                # User profile page
-│   │   └── shared/          # Shared/reusable components
+│   │   └── shared/                        # Shared/reusable components
 │   │       ├── AppliedJobTable.jsx        # Table showing applied jobs
 │   │       ├── CategoryCarousel.jsx       # Job categories carousel
 │   │       ├── FilterCard.jsx             # Job filtering component
@@ -46,25 +46,25 @@ job-portal-app/
 │   │       ├── LatestJobs.jsx             # Latest jobs section
 │   │       ├── Navbar.jsx                 # Navigation bar
 │   │       └── UpdateProfileDialog.jsx    # Profile update modal
-│   ├── hooks/               # Custom React hooks
+│   ├── hooks/                             # Custom React hooks
 │   │   ├── useGetAllAdminJobs.jsx         # Hook for fetching admin jobs
 │   │   ├── useGetAllCompanies.jsx         # Hook for fetching companies
 │   │   ├── useGetAllJobs.jsx              # Hook for fetching all jobs
 │   │   ├── useGetAppliedJobs.jsx          # Hook for fetching applied jobs
 │   │   └── useGetCompanyById.jsx          # Hook for fetching company details
-│   ├── redux/               # Redux state management
-│   │   ├── slices/          # Redux Toolkit slices
+│   ├── redux/                             # Redux state management
+│   │   ├── slices/                        # Redux Toolkit slices
 │   │   │   ├── applicationSlice.js        # Application state management
 │   │   │   ├── authSlice.js               # Authentication state management
 │   │   │   ├── companySlice.js            # Company state management
 │   │   │   └── jobSlice.js                # Jobs state management
 │   │   └── store.js                       # Redux store configuration
-│   ├── utils/               # Utility functions and constants
+│   ├── utils/                             # Utility functions and constants
 │   │   └── constants.js                   # API endpoints and other constants
-│   ├── App.jsx              # Main application component with routing
-│   └── index.js             # Entry point for React application
-├── package.json             # Dependencies and scripts
-└── README.md                # Project documentation
+│   ├── App.jsx                            # Main application component with routing
+│   └── index.js                           # Entry point for React application
+├── package.json                           # Dependencies and scripts
+└── README.md                              # Project documentation
 ```
 
 ## Key Features
