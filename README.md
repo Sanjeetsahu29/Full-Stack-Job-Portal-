@@ -1,6 +1,25 @@
 # Job-Portal-Full-Stack
 This is a full-stack job application platform that connects job seekers (students) with employers (recruiters). The application allows recruiters to create company profiles, post job listings, and manage applications, while students can browse jobs, apply to them, and manage their applications.
 
+## Project Demo Screenshot
+![Screenshot (8)](https://github.com/user-attachments/assets/af87ca62-4be4-48b8-9e8d-b10a7cc1773b)
+
+![Screenshot (10)](https://github.com/user-attachments/assets/c960f1d2-605f-405a-9b6a-2f39431b7f68)
+
+![Screenshot (9)](https://github.com/user-attachments/assets/3f6e5d3c-b7a8-469e-bce4-16e8752e4704)
+
+![Screenshot (11)](https://github.com/user-attachments/assets/6786dd8e-4a8e-4707-a072-2f64703f4aa0)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/63a2bad1-e6b1-4a9c-b573-7d2658ff6804)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/636a1c5d-1251-43b6-8219-04ab2bf88f51)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/41e3cd84-0e4d-4151-a179-e914dc0fe308)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/eebe3b43-139b-4de5-b87d-efe83e88b350)
+
+
+
 ## Frontend Architecture of the project
 This job portal application provides a two-sided marketplace:
 - **For Job Seekers**: Browse and apply for jobs, track application status, and manage profiles
@@ -221,3 +240,6 @@ Uses Multer for handling file uploads (profile photos, resumes, company logos)
 Files are stored as buffers in memory and then converted to DataURIs
 Files are then uploaded to Cloudinary cloud storage for permanent storage
 URLs to the uploaded files are stored in the database
+
+
+
