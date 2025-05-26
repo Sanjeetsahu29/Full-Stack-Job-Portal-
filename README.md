@@ -18,6 +18,8 @@ This is a full-stack job application platform that connects job seekers (student
 
 ![Screenshot (18)](https://github.com/user-attachments/assets/eebe3b43-139b-4de5-b87d-efe83e88b350)
 
+![Screenshot (21)](https://github.com/user-attachments/assets/77ef546a-3bb0-4dbb-a9ac-c09e097921e0)
+
 
 
 ## Frontend Architecture of the project
